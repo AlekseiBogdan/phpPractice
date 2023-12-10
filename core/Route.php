@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     class Route
     {
         public function getPathArray() {

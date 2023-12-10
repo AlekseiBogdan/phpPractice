@@ -1,4 +1,4 @@
-﻿<h1>Информация об авторе нашего сайта</h1>
+<h1>Информация об авторе нашего сайта</h1>
  <?php
     for ($row_no = 0; $row_no <= $data->num_rows - 1; $row_no++) {
         $data->data_seek($row_no);

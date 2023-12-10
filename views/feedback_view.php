@@ -1,4 +1,4 @@
-﻿<h1>Оставьте обратную связь о нашем сайте!</h1>
+<h1>Оставьте обратную связь о нашем сайте!</h1>
 <form action="/journal/feedback/send" method="POST">
     <p><input placeholder="Введите ваше имя" name="user"></p>
     <p><input placeholder="Введите вашу электронную почту" name="email"></p>

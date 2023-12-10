@@ -1,1 +1,1 @@
-﻿<?php include 'views/'.$content_view; ?> 
+<?php include 'views/'.$content_view; ?> 

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     class Controller_Feedback extends Controller
     {
         function __construct()

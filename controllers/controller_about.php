@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     class Controller_About extends Controller
     {
         function __construct()

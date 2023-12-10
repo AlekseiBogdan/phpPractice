@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     //Подключаем все наши общие классы: Модель, Контроллер и Представление
     require_once 'core/Model.php';
     require_once 'core/View.php';

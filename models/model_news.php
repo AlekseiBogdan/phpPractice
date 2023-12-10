@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     //Расширяем класс модели
     class Model_News extends Model
     {

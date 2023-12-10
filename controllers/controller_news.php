@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     //Наследуем все методы от класса Controller и уточняем их для реализации конкретной страницы
     class Controller_News extends Controller
     {

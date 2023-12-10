@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     //Реализация класса контроллера 404 страницы
     class Controller_404 extends Controller
     {

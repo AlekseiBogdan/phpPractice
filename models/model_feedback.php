@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     class Model_Feedback extends Model
     {
         public function send_data($data = null)
